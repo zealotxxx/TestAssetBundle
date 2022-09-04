@@ -64,7 +64,7 @@ MonoBehaviour:
       - m_Id: 4431ca2c5ac9d6e4785ed53ceb73bfeb
         m_Value: ServerData/[BuildTarget]
       - m_Id: 6c513b955380be141b58006a1d166d33
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://github.com/zealotxxx/TestAssetBundle/ServerData/Android
     m_ProfileEntryNames:
     - m_Id: 7646d6f3c554e894784f8200c0117f8b
       m_Name: BuildTarget
