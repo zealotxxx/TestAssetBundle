@@ -1,0 +1,11 @@
+.git
+.vs
+Library
+Logs
+obj
+Temp
+Packages
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+TestAssetBundle.sln
