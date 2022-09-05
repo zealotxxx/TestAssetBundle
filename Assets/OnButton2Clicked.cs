@@ -8,13 +8,14 @@ public class OnButton2Clicked : MonoBehaviour
     public AssetReference reference;
     public Transform parent;
     GameObject obj = null;
+    public string AssetToLoad;
 
     public void ClickEvent()
     {
         Debug.Log("Btn2Clicked");
         if (obj == null)
         {
-            Addressables.LoadAssetAsync<GameObject>("Cube").Completed += (handle) =>
+            Addressables.LoadAssetAsync<GameObject>(AssetToLoad).Completed += (handle) =>
             {
                 GameObject prefabObject = handle.Result;
                 obj = Instantiate(prefabObject, parent);

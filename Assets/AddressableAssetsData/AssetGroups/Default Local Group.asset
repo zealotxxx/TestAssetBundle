@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: f99c6b52c9a8aff488220ea8e46287ef
   m_SerializeEntries:
-  - m_GUID: fcba36cd951b34a4dbb9355bfcd04958
-    m_Address: Capsule
+  - m_GUID: e233e70ea8a07904087688480952ff18
+    m_Address: Assets/Res/Capsule
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
