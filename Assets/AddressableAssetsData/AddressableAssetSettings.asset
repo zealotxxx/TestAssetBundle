@@ -90,9 +90,9 @@ MonoBehaviour:
       - m_Id: 07abe77128b84d0429725cec2b504fd6
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 4431ca2c5ac9d6e4785ed53ceb73bfeb
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: ServerData/[BuildTarget]
       - m_Id: 6c513b955380be141b58006a1d166d33
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+        m_Value: http://https://github.com/zealotxxx/TestAssetBundle/ServerData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 7646d6f3c554e894784f8200c0117f8b
       m_Name: BuildTarget
@@ -127,7 +127,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7a564fcddf9678c42aafd25e9baca39d, type: 2}
   - {fileID: 11400000, guid: 0272702c46d38d0488dd5568dc2d5ba5, type: 2}
   - {fileID: 11400000, guid: ba53ba3929a52134aa77b0f2b0b53cd4, type: 2}
-  m_ActiveProfileId: 532d4c94aadcc8f47a6dd039b35d0771
+  m_ActiveProfileId: 485a55bf67dfc1245ae8551df26a5a5b
   m_HostingServicesManager:
     m_HostingServiceInfos:
     - classRef: UnityEditor.AddressableAssets.HostingServices.HttpHostingService,
